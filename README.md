@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:<br>
 Updated Version 2.0:<p>
 <img src='walkthrough_unit6_updatedVersion.gif' title='Updated Walkthrough' width='' alt='Updated IG Walkthrough' />
 
