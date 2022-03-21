@@ -33,7 +33,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+Updated Version 2.0:<p>
+<img src='walkthrough_unit6_updatedVersion.gif' title='Updated Walkthrough' width='' alt='Updated IG Walkthrough' />
 
+Version 1.0:<p>
 <img src='walkthrough_unit6.gif' title='Video Walkthrough' width='' alt='IG Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
